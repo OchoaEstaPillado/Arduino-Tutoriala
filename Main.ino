@@ -47,7 +47,7 @@ void aurreraInklinatu() {
   delay(200);
 }
 
-void AtzeraInklinatu() {
+void atzeraInklinatu() {
   for (pos = 70; pos >= 2; pos -= 1) {
     artikulazioa1.write(pos);
     artikulazioa2.write(pos);
