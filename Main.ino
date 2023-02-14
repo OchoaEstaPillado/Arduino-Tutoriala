@@ -6,7 +6,6 @@ Servo artikulazioa2;
 Servo pinza;
 
 int pos = 0;
-
 int repetizioak = 0;
 
 void setup() {
